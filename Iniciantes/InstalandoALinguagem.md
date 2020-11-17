@@ -17,8 +17,10 @@ Tendo o VSCode em sua máquina, você precisará abrir o editor e instalar a ext
 ---
 
 ### Links úteis
+Enfrentou algum problema na instalação? Talvez um desses links possa te ajudar:
 
 - [Python no VSCode](https://code.visualstudio.com/docs/languages/python)
+- [Colocando Python no path do Windows](https://medium.com/@victorromariopazdejesus/python-3-configurando-vari%C3%A1veis-de-ambiente-no-windows-10-63059c7192e6)
 
 ---
 
