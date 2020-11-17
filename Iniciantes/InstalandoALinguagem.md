@@ -24,4 +24,4 @@ Enfrentou algum problema na instalação? Talvez um desses links possa te ajudar
 
 ---
 
-## [Próxima aula (Em breve)]()
+## [Próxima aula](https://github.com/obrunodev/aprenda-python/blob/main/Iniciantes/primeiroCodigo.md)
