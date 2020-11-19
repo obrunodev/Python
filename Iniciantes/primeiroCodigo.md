@@ -38,4 +38,4 @@ print('Hello world!')
 Então nessa aula aprendemos o porque python é uma boa linguagem para iniciantes e como criar nosso primeiro script. Na próxima, já trabalharemos mais a fundo os códigos!
 
 ## [Aula anterior](https://github.com/obrunodev/aprenda-python/blob/main/Iniciantes/InstalandoALinguagem.md)
-## [Próxima aula (Em breve)]()
+## [Próxima aula](https://github.com/obrunodev/Pythonizando/blob/main/Iniciantes/trabalhandoNumeros.md)

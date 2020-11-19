@@ -6,4 +6,4 @@ Tutorial com conceitos essenciais de programação em python
 
 2. Por que Python e primeiro código: [Aula](https://github.com/obrunodev/aprenda-python/blob/main/Iniciantes/primeiroCodigo.md)
 
-3. Trabalhando com números e variáveis [Aula]()
+3. Trabalhando com números e variáveis [Aula](https://github.com/obrunodev/Pythonizando/blob/main/Iniciantes/trabalhandoNumeros.md)
