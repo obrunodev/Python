@@ -5,6 +5,6 @@ app = Flask(__name__)
 def hello_world():
   return render_template('index.html')
 
-@app.route('/sobre')
-def sobre():
-  return render_template('about.html')
+@app.route('/sobre/<usuario>')
+def sobre(usuario):
+  return render_template('about.html', usuario=usuario)
