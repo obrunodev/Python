@@ -4,7 +4,7 @@ Projetos considerados de nível iniciante para quem quer aprender python (ou faz
 
 ## 1 - Simulador de dados [Código](Códigos/simuladorDado.py)
 
-Este desafio consiste em criar um algoritmo que que pode ser executado diversas vezes pelo usuário (até que ele responda "não" ou alguma oitra coisa de sua preferencia).
+Este desafio consiste em criar um algoritmo que pode ser executado diversas vezes pelo usuário (até que ele responda "não" ou alguma oitra coisa de sua preferencia).
 
 Objetivos:
 - [ ] Receber input de usuário.

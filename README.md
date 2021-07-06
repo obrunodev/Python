@@ -6,4 +6,4 @@ Todos os códigos postados no instagram ficam aqui.
 
 [Exercícios para iniciantes](/desafios-iniciantes)
 
-Aplicação Flask do post "Começando em Flask" [Clique aqui](app-flask)
+Aplicação Flask do post "Começando em Flask" [Clique aqui](flask)
