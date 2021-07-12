@@ -21,6 +21,7 @@ def make_calculation_three(numbers):
     for number in numbers:
         result_c.append(math.sqrt(number ** 5))
 
+
 if __name__ == '__main__':
 
     number_list = list(range(5000000))
