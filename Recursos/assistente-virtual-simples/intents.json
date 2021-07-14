@@ -1,0 +1,45 @@
+{"intents": [
+
+	{
+		"tag": "cumprimentos",
+		"patterns": ["Olá", "Como você está", "Tudo bem", "Bom dia", "Oi"],
+		"responses": ["Olá, prazer, sou seu assistente virtual."],
+		"context_set": ""
+	},
+	{
+		"tag": "data",
+		"patterns": ["Que dia é hoje", "Qual a data de hoje"],
+		"responses": ["Hoje é dia 19 de abril de 2021"],
+		"context_set": ""
+	},
+	{
+		"tag": "hora",
+		"patterns": ["que horas são", "que hora é agora"],
+		"response": ["Mostrar resposta"],
+		"context_set": ""
+	},
+	{
+		"tag": "mostrar_exercicios",
+		"patterns": ["Lista de exercícios de hoje", "Quais os exercicios de hoje"],
+		"response": ["Mostrando lista de exercícios"],
+		"context_set": ""
+	},
+	{
+		"tag": "adicionar_exercicio",
+		"patterns": ["Adicionar um exercicio", "Novo exercício"],
+		"response": ["Adicionando exercício"],
+		"context_set": ""
+	},
+	{
+		"tag": "remover_exercicio",
+		"patterns": ["Remover um exercicio", "Cancelar exercício"],
+		"response": ["Removendo exercicio"],
+		"context_set": ""
+	},
+	{
+		"tag": "despedida",
+		"patterns": ["tchau", "Fechar assistente", "Adeus"],
+		"response": ["Até a próxima"],
+		"context_set": ""
+	}
+]}
